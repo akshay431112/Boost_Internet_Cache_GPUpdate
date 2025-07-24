@@ -16,4 +16,4 @@ How to Use:
 1. Right-click the CMD file and select "Run as Administrator".
 2. Follow the on-screen prompts.
 
-Author: System Admin Toolkit - Powered by ChatGPT
+Author: System Admin Toolkit - Akshay 
